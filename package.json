@@ -1,0 +1,19 @@
+{
+  "name": "nodestore",
+  "version": "1.0.0",
+  "description": "Store the key/value dictionary using filesystem",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/boriscosic/code-challenge-1.git"
+  },
+  "author": "Aya Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/boriscosic/code-challenge-1/issues"
+  },
+  "homepage": "https://gitlab.com/boriscosic/code-challenge-1#README"
+}
